@@ -5,5 +5,7 @@ Using a combination of your favorite debugger (Cheat Engine, Ollydbg, Immunity, 
 
 Why? Just because, and I wanted a project to use these different technologies altogether.
 
+You will need to install MongoDB packages via Nuget and NPM, as well as install MongoDB (obviously).
+
 
 
